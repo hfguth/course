@@ -843,3 +843,8 @@
 - [黑马DeepSeek+Cursor+Devbox 零代码开发项目课程 视频+资料](https://xmq1024.com/11844.html)
 - [知乎Ai应用开发工程师大模型11期|2025完结](https://xmq1024.com/11848.html)
 - [2025尚硅谷AI大模型技术人工智能系列课程](https://xmq1024.com/11852.html)
+- [王锋：Spine3.8骨骼动画特效教程第三季，视频+素材 价值1689](https://xmq1024.com/11855.html)
+- [馒头-C4D细腻产品第一期](https://xmq1024.com/11859.html)
+- [野菩萨-AIGC全能实战班第二期](https://xmq1024.com/11862.html)
+- [在Godot 4中使用C#创建完整的网格谜题游戏](https://xmq1024.com/11866.html)
+- [学习Three.js的最佳课程 - Three.js Journey - The ultimate Three.js course](https://xmq1024.com/11869.html)
