@@ -854,3 +854,8 @@
 - [Unity6 2D平台游戏开发_从入门到精通](https://xmq1024.com/11886.html)
 - [印客大前端2024](https://xmq1024.com/11889.html)
 - [2025Ai应用开发工程师大模型12期](https://xmq1024.com/11894.html)
+- [马哥云原生-微服务大厂冲刺班N66期](https://xmq1024.com/11898.html)
+- [微信小游戏0基础就业班+CTO进阶班](https://xmq1024.com/11902.html)
+- [2024洛谷算法训练营](https://xmq1024.com/11906.html)
+- [Vue3开发训练营: 从入门到精通，构建企业级应用程序](https://xmq1024.com/11910.html)
+- [网络安全之Web渗透测试视频课程](https://xmq1024.com/11913.html)
