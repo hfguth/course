@@ -891,3 +891,7 @@
 - [使用C#面向对象编程, MS SQL和ASP.NET MVC的全栈Web开发](https://xmq1024.com/12017.html)
 - [哲玄课堂-大前端全栈实践【Vue NodeJS 全栈 开发 学习 进阶 简历】](https://xmq1024.com/12021.html)
 - [JK-Kubernetes 源码剖析与实战](https://xmq1024.com/12024.html)
+- [JK-跟月影学前端智能体开发](https://xmq1024.com/12027.html)
+- [视频剪辑课程合集2025年6月更新](https://xmq1024.com/12031.html)
+- [2025大前端架构师高阶训练营](https://xmq1024.com/12035.html)
+- [Win驱动开发|Win驱动大神课](https://xmq1024.com/12039.html)
