@@ -987,3 +987,7 @@
 - [26年软考(高项)信息系统项目管理师合集|含25年6位老师完结课程|持续更新。。。](https://xmq1024.com/12415.html)
 - [8N8工作流模板2400套|一键导入，覆盖全场景](https://xmq1024.com/12420.html)
 - [零基础，Scala系统入门与实战](https://xmq1024.com/12424.html)
+- [MCP教程A2A协议实战AI工程师项目开发Cursor Cline视频课程](https://xmq1024.com/12428.html)
+- [MCP入门到实战67集完整版！少走99%的弯路！零门槛接入Qwen3、DeepSeek-R1、ADK开发Agent智能体超简单!](https://xmq1024.com/12431.html)
+- [2025年11月SRE+AI智能运维架构班](https://xmq1024.com/12435.html)
+- [26年软考(高项)信息系统项目管理师合集|含25年6位老师完结课程|持续更新。。。](https://xmq1024.com/12440.html)
