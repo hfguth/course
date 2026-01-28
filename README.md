@@ -995,3 +995,6 @@
 - [聚客大模型6期完整版|2025](https://xmq1024.com/12449.html)
 - [QT网络绘图多线程并发库编程QT5详解实用视频课程](https://xmq1024.com/12452.html)
 - [N8NAI自动化大师课：从零构建企业级工作流](https://xmq1024.com/12456.html)
+- [Django5+Vue3+Docker打造企业OA系统](https://xmq1024.com/12459.html)
+- [地图大师SRC合集|2025](https://xmq1024.com/12461.html)
+- [远航哥嵌入式2025](https://xmq1024.com/12463.html)
