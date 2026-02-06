@@ -998,3 +998,5 @@
 - [Django5+Vue3+Docker打造企业OA系统](https://xmq1024.com/12459.html)
 - [地图大师SRC合集|2025](https://xmq1024.com/12461.html)
 - [远航哥嵌入式2025](https://xmq1024.com/12463.html)
+- [零基础，Scala系统入门与实战](https://xmq1024.com/12475.html)
+- [AI编程幻觉终结者--TDD+重构驱动的单元测试实战课|2026完结](https://xmq1024.com/12479.html)
