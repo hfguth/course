@@ -1000,3 +1000,6 @@
 - [远航哥嵌入式2025](https://xmq1024.com/12463.html)
 - [零基础，Scala系统入门与实战](https://xmq1024.com/12475.html)
 - [AI编程幻觉终结者--TDD+重构驱动的单元测试实战课|2026完结](https://xmq1024.com/12479.html)
+- [AI工程化项目实战营|资料齐全](https://xmq1024.com/12490.html)
+- [CAD教程2025版](https://xmq1024.com/12495.html)
+- [MCP+A2A 从0到1构建类Manus多Agent全栈应用|更新中。。。](https://xmq1024.com/12499.html)
