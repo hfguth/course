@@ -1003,3 +1003,8 @@
 - [AI工程化项目实战营|资料齐全](https://xmq1024.com/12490.html)
 - [CAD教程2025版](https://xmq1024.com/12495.html)
 - [MCP+A2A 从0到1构建类Manus多Agent全栈应用|更新中。。。](https://xmq1024.com/12499.html)
+- [Java转 AI高薪领域必备-从0到1打通生产级AI Agent开发](https://xmq1024.com/12506.html)
+- [AI Agent+MCP从0到1打造商业级编程智能体|20章完结](https://xmq1024.com/12512.html)
+- [极客-出海实战课](https://xmq1024.com/12516.html)
+- [2026尚硅谷AI智能体速成班V2.0](https://xmq1024.com/12520.html)
+- [零基础学Cursor从需求到上线全流程实战](https://xmq1024.com/12523.html)
