@@ -1014,3 +1014,7 @@
 - [Ferry学院-Windows逆向 C语言 C++安全开发课程合集](https://xmq1024.com/12539.html)
 - [2026大模型Agent开发-系统课（前2周）|更行中。。。](https://xmq1024.com/12544.html)
 - [AI Agent股票异动风控机器人实战（支持美股+A股）](https://xmq1024.com/12548.html)
+- [2026年最新C++训练营课程|体系课67期|完结](https://xmq1024.com/12553.html)
+- [多模态大模型训练营](https://xmq1024.com/12557.html)
+- [八方网域-网络安全大师课2025版](https://xmq1024.com/12561.html)
+- [程序员AI量化理财体系课](https://xmq1024.com/12569.html)
