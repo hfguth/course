@@ -1018,3 +1018,6 @@
 - [多模态大模型训练营](https://xmq1024.com/12557.html)
 - [八方网域-网络安全大师课2025版](https://xmq1024.com/12561.html)
 - [程序员AI量化理财体系课](https://xmq1024.com/12569.html)
+- [ROS2 机器人应用开发工程师，MP4](https://xmq1024.com/12574.html)
+- [黑马-零基础具身智能机械臂实战项目开发全套视频课程](https://xmq1024.com/12577.html)
+- [2025Linux云计算SRE工程师（M64期）](https://xmq1024.com/12581.html)
